@@ -22,19 +22,27 @@ https://github.com/rossant/awesome-math [here you can have list of required sour
 
 # Computer Science 
 
-if you want to get started with computer science first i will recommend to get started with computers and typing skill. 
-Yeah typing skill is a kind of big deal. "klavaro" is the software i will be recommeding to you to use for that practice this firt!
+If you want to get started with computer science first i will recommend to get started with computers and typing skill. 
+Yeah typing skill is a kind of big deal. "klavaro" is the software i will be recommeding to you to use for that practice this first!
 
-Now you are ready with Good typing speed then now you can get started with progarmming , algorithms , data sturcture and other IT skills. 
+Now they are 3 parts of computer science
+1)Theoury part of computer science 
+2)Computer Engineering 
+3) Application level 
 
-See Computer Science is a big branch with a lot of filed to study with but i will be recommeding you To first go with the theroytical computer science along with some IT Skill tools like learning how to use linux and other skills. 
-
-So, we will be starting with CS50 and Intro to computer science  by MIT OCW. other than that we will be going through IT Skills like OS using and various tools. 
-and then we will go with rest of the things like nanda2 tetris and other stuffs. 
-I will be updating the well maintained deatiled plans here now i am really having a mess in working and writting it down here but yeah i will be keeping it simple. 
-
-1)CS50 
-2)MIT OCW INTRO TO PROGARMMING  (progarmming languages)
-include algorithms , data structures and other stuffs. 
-3)Nand2tetris (learning hardwares) all kind of hardware including physics and all stuffs how a computer actually works and all.
-4)Networking , databse , w
+1) 
+  a)turing machine 
+  b)lamda calculs 
+  c)Computer complexicity
+  d)Algorithums 
+  e)Analysing algoriums and complexity of them advance algoritums 
+  f)information theroury 
+  g)Crptography 
+  f)paralller progarmming , quantum computers , auromated therouys , Data Streucture , formal methods 
+  
+2)
+  a)Secduling 
+  b)COmputer architechtures , OS ,Assembly , python progarmming 
+  c)Software engineering 
+  d)Netwrking , data managnment , graphics card and all 
+  e)AI , MACHINE LEARNING , COMPUTER VISIONS , NEUTRAL NETWORKS , IOT , CHATBOTS , BIG DATA . HACKING 
