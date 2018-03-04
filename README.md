@@ -17,9 +17,24 @@ So Let's get started:
 #if you will be doing all these properly then you will be achiving mastery on subjects like Physics , Chemistry and Maths. one of my key point will be if you will not be able to memorize something then you don't even need it so better to forget 
 #This part mainly contain High School education which is actually needed for futher education. 
 # College 
-2)If you future wants to study in Maths and Science not CS then this may be not the best content here. but still am listing down some stuffs and resources for maths and science you can have more deatiled talk on that on freenode IRC channel on #math , #Physics and #Chemistry if you are not familire with IRC's not a big deal its just a simple old social media which is text based. 
-https://github.com/rossant/awesome-math [here you can have list of required sources to study maths in deatils]. 
+If you future wants to study in Maths and Science not CS then this may be not the best content here. but still am listing down some stuffs and resources for maths and science you can have more deatiled talk on that on freenode IRC channel on #math , #Physics and #Chemistry if you are not familire with IRC's not a big deal its just a simple old social media which is text based. 
+https://github.com/rossant/awesome-math [here you can have list of required sources to study maths in deatils] 
 
+# Computer Science 
 
-# Computer science
-3) Now here we Go for CS now CS actually includes a lot of cources and other stuffs you can get a lot of good learning platform about that from awesome.re which actually include a lot of learning resources. by the ways i will be talking in deatils about learning CS in the another file here i am just leaving with the resource awesome.re and taughtyourselfcs.com which are actually best one sponsered by peoples from university and other places.
+if you want to get started with computer science first i will recommend to get started with computers and typing skill. 
+Yeah typing skill is a kind of big deal. "klavaro" is the software i will be recommeding to you to use for that practice this firt!
+
+Now you are ready with Good typing speed then now you can get started with progarmming , algorithms , data sturcture and other IT skills. 
+
+See Computer Science is a big branch with a lot of filed to study with but i will be recommeding you To first go with the theroytical computer science along with some IT Skill tools like learning how to use linux and other skills. 
+
+So, we will be starting with CS50 and Intro to computer science  by MIT OCW. other than that we will be going through IT Skills like OS using and various tools. 
+and then we will go with rest of the things like nanda2 tetris and other stuffs. 
+I will be updating the well maintained deatiled plans here now i am really having a mess in working and writting it down here but yeah i will be keeping it simple. 
+
+1)CS50 
+2)MIT OCW INTRO TO PROGARMMING  (progarmming languages)
+include algorithms , data structures and other stuffs. 
+3)Nand2tetris (learning hardwares) all kind of hardware including physics and all stuffs how a computer actually works and all.
+4)Networking , databse , w
